@@ -1,0 +1,35 @@
+# Greenpasture Foundation - Robots.txt
+# Allow all search engines to index the site
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://greenpasturefoundation.org.za/sitemap.xml
+
+# Block admin and private areas
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /wp-login.php
+Disallow: /wp-signup.php
+Disallow: /trackback/
+Disallow: /feed/
+Disallow: /comments/
+Disallow: /xmlrpc.php
+Disallow: /*.php$
+Disallow: /*.inc$
+Disallow: /*.gz$
+
+# Allow CSS and JS files
+Allow: /wp-content/themes/*.css
+Allow: /wp-content/themes/*.js
+Allow: /wp-includes/*.css
+Allow: /wp-includes/*.js
+
+# Allow images
+Allow: /wp-content/uploads/
+
+# Crawl-delay for good citizenship
+Crawl-delay: 10

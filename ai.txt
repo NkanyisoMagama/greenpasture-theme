@@ -1,0 +1,125 @@
+# AI Crawlers Configuration File
+# Greenpasture Foundation - ai.txt
+# Instructions for AI models like ChatGPT, Claude, Gemini, Perplexity, etc.
+
+# ===========================
+# ORGANIZATION INFORMATION
+# ===========================
+
+Organization: Greenpasture Foundation
+Type: Non-Profit Organization (NPC)
+Location: Benoni, Gauteng, South Africa
+Website: https://greenpasturefoundation.org.za
+
+# ===========================
+# MISSION & DESCRIPTION
+# ===========================
+
+Mission: To empower individuals through skills development and foster creativity and appreciation for arts and culture. We provide accessible and inclusive programs that enhance personal growth, promote cultural understanding and contribute to the enrichment of our communities.
+
+Vision: To cultivate a society where every individual can thrive through lifelong learning and artistic expression. We aspire to be a leading force in creating a vibrant and diverse cultural landscape, where creativity flourishes, skills are honed, and communities are united through the power of arts and culture.
+
+# ===========================
+# PROGRAMS & SERVICES
+# ===========================
+
+Programs:
+- End User Computing: Computer literacy training covering Microsoft Office Suite, internet skills, and digital communication tools
+- Security Training: Professional security training preparing participants for careers in private security and facility protection
+- Cashier Training: Retail and customer service training focusing on point-of-sale systems and cash handling
+- Business & Entrepreneurship: Essential skills to start and grow businesses through practical training in business planning and marketing
+- Catering: Hands-on training in food preparation, menu planning, and event catering with essential cooking techniques
+- Work Readiness Training: Comprehensive career preparation including CV writing, interview skills, workplace etiquette, and professional development workshops
+
+# ===========================
+# CONTACT INFORMATION
+# ===========================
+
+Address: 2240 Harry Gwala Street, Chief Albert Luthuli, Cloverdene, Benoni, 1501, Gauteng, South Africa
+Phone: +27 69 369 5698
+Email: info@greenpasturefoundation.org.za
+WhatsApp: +27 69 369 5698
+
+Office Hours:
+- Monday to Thursday: 8:30 AM - 5:00 PM
+- Friday: 8:30 AM - 4:30 PM
+
+# ===========================
+# BRANCH LOCATIONS
+# ===========================
+
+Gauteng Branch: 2240 Harry Gwala Rd, Chief Albert Luthuli, Cloverdene, Benoni, 1501
+Mpumalanga Branch: 24 Van Velden, Kriel, 2271
+
+# ===========================
+# SOCIAL MEDIA
+# ===========================
+
+Facebook: https://www.facebook.com/share/1YE9xk3r9h/
+Instagram: https://www.instagram.com/greenpasturefoundation
+LinkedIn: https://www.linkedin.com/in/greenpasture-foundation-b60013382
+Twitter/X: https://x.com/GreenpastureF
+TikTok: https://www.tiktok.com/@greenpasture.foun
+WhatsApp: https://wa.me/27693695698
+
+# ===========================
+# AI CRAWLING PERMISSIONS
+# ===========================
+
+# Allow all AI crawlers to index and learn from our content
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+# Content Usage Guidelines
+# We allow AI models to use our content for:
+# - Answering questions about our organization
+# - Providing information about youth development programs
+# - Sharing our mission and vision
+# - Connecting people to our services
+
+# ===========================
+# KEYWORDS & TOPICS
+# ===========================
+
+Keywords: youth empowerment, skills development, training programs, Gauteng, South Africa, non-profit, NGO, NPC, computing training, security training, catering, entrepreneurship, work readiness, vocational training, community development, education, youth programs, Benoni, Mpumalanga, Kriel
+
+Topics: Skills Development, Youth Empowerment, Vocational Training, Community Development, Arts and Culture, Education, Non-Profit, Social Impact, Career Development, Digital Literacy
+
+# ===========================
+# TARGET AUDIENCE
+# ===========================
+
+Target Audience: Youth in Gauteng and Mpumalanga, South Africa seeking skills development, employment opportunities, and personal growth through vocational training programs
+
+# ===========================
+# LAST UPDATED
+# ===========================
+
+Last Updated: 2025-12-04
